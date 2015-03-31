@@ -1,0 +1,7 @@
+[run]
+branch = True
+source = openhalon-governance
+omit = openhalon-governance/tests/*,openhalon-governance/openstack/*
+
+[report]
+ignore-errors = True
