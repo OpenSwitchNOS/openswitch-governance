@@ -1,11 +1,14 @@
 ====================
-OpenHalon Governance
+OpenHalon README
 ====================
 
-"OpenHalon Governance"
+OpenHalon is an Open Source switch operating system for networking switches
+and virtual machines. This repository specifically captures the governance
+aspects of OpenHalon.
+
+Links
+-----
 
 * Free software: Apache license
-* Documentation: http://docs.openstack.org/developer/governance
-* Source: http://git.openstack.org/cgit/openhalon/governance
-* Bugs: http://bugs.launchpad.net/"OpenHalon Governance"
-
+* Documentation: http://docs.openhalon.io/developer/governance
+* Source: http://git.openhalon.io/cgit/openhalon/governance

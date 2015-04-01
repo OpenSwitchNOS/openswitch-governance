@@ -67,7 +67,7 @@ htmlhelp_basename = '%sdoc' % project
 latex_documents = [
     ('index',
      '%s.tex' % project,
-     u'%s Documentation' % project),
+     u'%s Documentation' % project, 'OpenHalon Governance', 'manual'),
 ]
 
 # Example configuration for intersphinx: refer to the Python standard library.
