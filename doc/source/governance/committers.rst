@@ -22,9 +22,9 @@ Adding or Removing Committers
 A new OpenHalon committer may be proposed at anytime on the openhalon-dev
 mailing list. Typically, the existing committer team for a project will
 propose a new member after discussions with the existing committers. Once
-a proposal has been made, five existing OpenHalon committers  must respond
+a proposal has been made, three existing OpenHalon committers must respond
 to the email with a +1.  If the member is being added to a committer team
-with less than five members, a simple majority will be used to determine if
+with less than three members, a simple majority will be used to determine if
 the vote is successful. Another OpenHalon committer can vote -1 to veto the
 proposed new OpenHalon committer.
 
@@ -33,10 +33,7 @@ existing committers. Typically, if someone is no longer involved in working
 on code in a specific repository, it is natural for that person to ask for
 themselves to be removed. However, if the person has either lost contact
 with the existing committers, or the existing committers determine the
-person should no longer have committer rights, they can propose to remove
-the person's committer rights. This is done by again sending an email to
-the openhalon-dev mailing list. 5 existing OpenHalon committers must vote
-+1. If there are less than 5 committers on a project, a simple majority
-must vote +1. If the vote succeeds, the person has their committer rights
-removed.
-
+person should no longer have committer rights, either the OpenHalon project
+leader or the maintainer covering the repository in question can remove the
+committer by sending an email to the openhalon-dev mailing list indicating
+the person's committer rights are removed.
