@@ -51,12 +51,12 @@ Governance
 .. toctree::
    :maxdepth: 3
 
-   bug-czar
-   committers
    contributor-onboarding
+   committers
    maintainers
-   project-leader
+   bug-czar
    release-management
+   project-leader
 
 Indices and tables
 ------------------
