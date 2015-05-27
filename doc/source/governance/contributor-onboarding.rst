@@ -18,10 +18,20 @@ add #openhalon to their IRC client.
 Licensing of Contributions
 --------------------------
 
-OpenHalon uses the standard Developer Certificate of Origin (DCO_) for
-all code contributions. Similar to many other Open Source projects such
-as OpenDaylight_ and Docker_, the DCO is required on all submissions for
-OpenHalon. The exact text for the DCO used by OpenHalon is as follows::
+OpenHalon uses a combination of the standard Developer Certificate of
+Origin (DCO_) and a Contributor Licensing Agreement (CLA) for all
+contributions. The dual-stacked approach allows for the following:
+
+* Corporate contributors can have their corporate entity sign the CLA
+  before submitting code.
+* Non-corporate affiliated contributors need to individually sign the
+  CLA.
+* Everyone submitting code adds the (DCO_) to their commits.
+
+The exact text of the CLA is as follows::
+   #TODO(mestery) Add CLA text here
+
+The exact text for the DCO used by OpenHalon is as follows::
 
    Developer's Certificate of Origin 1.1
 
@@ -48,6 +58,10 @@ OpenHalon. The exact text for the DCO used by OpenHalon is as follows::
        personal information I submit with it, including my sign-off) is
        maintained indefinitely and may be redistributed consistent with
        this project or the open source license(s) involved.
+
+Please note code commits will not include the DCO text above, but rather the
+standard "Signed-Off-By" line. The above is meant to replicate the text a
+contributor is agreeing to by adding their "Signed-Off-By" to each commit.
 
 IRC Information and Etiquette
 -----------------------------

@@ -57,10 +57,4 @@ Governance
    bug-czar
    release-management
    project-leader
-
-Indices and tables
-------------------
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   election-process
