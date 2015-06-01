@@ -31,15 +31,3 @@ will also grow and mature in lock-step.
    :maxdepth: 1
 
    governance/index
-
-Overview Documentation
-----------------------
-
-.. toctree::
-   :maxdepth: 1
-
-   readme
-   installation
-   usage
-   contributing
-

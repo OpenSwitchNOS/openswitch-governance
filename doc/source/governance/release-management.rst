@@ -8,6 +8,8 @@ stability and quality, with additional features added as the community seeks
 to add them. The release manager coordinates all of this work across the
 OpenHalon project.
 
+The initial release manager will be assigned by HP.
+
 Release Work Items
 ------------------
 
