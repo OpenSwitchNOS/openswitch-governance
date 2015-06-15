@@ -52,6 +52,7 @@ Governance
    :maxdepth: 3
 
    contributor-onboarding
+   contributor-licensing-agreements
    committers
    maintainers
    bug-czar

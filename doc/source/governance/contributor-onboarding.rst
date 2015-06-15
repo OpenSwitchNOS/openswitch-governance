@@ -28,8 +28,7 @@ contributions. The dual-stacked approach allows for the following:
   CLA.
 * Everyone submitting code adds the (DCO_) to their commits.
 
-The exact text of the CLA is as follows::
-   #TODO(mestery) Add CLA text here
+The CCLA and ICLA text can be found in the appropriate documents.
 
 The exact text for the DCO used by OpenHalon is as follows::
 
