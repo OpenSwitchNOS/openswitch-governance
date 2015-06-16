@@ -7,18 +7,18 @@ quickly and contribute to the project.
 Contributing
 ------------
 
-Discussions around OpenHalon development are held in two places:
+Discussions around OpenSwitch development are held in two places:
 
-* The openhalon-dev mailing list.
-* The #openhalon channel on Freenode.
+* The openswitch-dev mailing list.
+* The #openswitch channel on Freenode.
 
 New contributors should be sure to subscribe to the mailing list and to
-add #openhalon to their IRC client.
+add #openswitch to their IRC client.
 
 Licensing of Contributions
 --------------------------
 
-OpenHalon uses a combination of the standard Developer Certificate of
+OpenSwitch uses a combination of the standard Developer Certificate of
 Origin (DCO_) and a Contributor Licensing Agreement (CLA) for all
 contributions. The dual-stacked approach allows for the following:
 
@@ -30,7 +30,7 @@ contributions. The dual-stacked approach allows for the following:
 
 The CCLA and ICLA text can be found in the appropriate documents.
 
-The exact text for the DCO used by OpenHalon is as follows::
+The exact text for the DCO used by OpenSwitch is as follows::
 
    Developer's Certificate of Origin 1.1
 
@@ -65,17 +65,17 @@ contributor is agreeing to by adding their "Signed-Off-By" to each commit.
 IRC Information and Etiquette
 -----------------------------
 
-The main IRC channel for OpenHalon is #openhalon on Freenode. Sub projects
+The main IRC channel for OpenSwitch is #openswitch on Freenode. Sub projects
 may utilize additional channels, and they should be added below as they
-are created and used for OpenHalon development.
+are created and used for OpenSwitch development.
 
-Please note the #openhalon IRC channel is logged publicly.
+Please note the #openswitch IRC channel is logged publicly.
 
 Weekly Meetings
 ---------------
-OpenHalon holds a weekly IRC meeting. This meeting is held on Freenode in
-the #openhalon-meeting channel. The meeting is held at 2100 UTC on Wednesdays.
-Please note the OpenHalon meeting follows UTC and not DST.
+OpenSwitch holds a weekly IRC meeting. This meeting is held on Freenode in
+the #openswitch-meeting channel. The meeting is held at 2100 UTC on Wednesdays.
+Please note the OpenSwitch meeting follows UTC and not DST.
 
 .. _DCO: http://elinux.org/Developer_Certificate_Of_Origin
 .. _OpenDaylight: http://www.opendaylight.org/InboundCodeReview

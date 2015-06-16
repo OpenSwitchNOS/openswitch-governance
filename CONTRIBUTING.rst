@@ -1,9 +1,9 @@
-If you would like to contribute to the development of OpenHalon,
+If you would like to contribute to the development of OpenSwitch,
 you must follow the steps in this page:
 
-   http://review.openhalon.io/
+   http://review.openswitch.io/
 
-Once those steps have been completed, changes to OpenHalon
+Once those steps have been completed, changes to OpenSwitch
 should be submitted for review via the Gerrit tool.
 
    <Instructions forthcoming>

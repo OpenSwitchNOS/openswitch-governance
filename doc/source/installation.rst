@@ -4,9 +4,9 @@ Installation
 
 At the command line::
 
-    $ pip install openhalon-governance
+    $ pip install openswitch-governance
 
 Or, if you have virtualenvwrapper installed::
 
-    $ mkvirtualenv openhalon-governance
-    $ pip install openhalon-governance
+    $ mkvirtualenv openswitchgovernance
+    $ pip install openswitchgovernance

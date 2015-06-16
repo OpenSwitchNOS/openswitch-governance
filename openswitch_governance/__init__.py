@@ -12,17 +12,8 @@
 # License for the specific language governing permissions and limitations
 # under the License.
 
-"""
-test_openhalon-governance
-----------------------------------
-
-Tests for `openhalon-governance` module.
-"""
-
-from openhalon_governance.tests import base
+import pbr.version
 
 
-class TestOpenhalonGovernance(base.TestCase):
-
-    def test_something(self):
-        pass
+__version__ = pbr.version.VersionInfo(
+    'openswitch-governance').version_string()

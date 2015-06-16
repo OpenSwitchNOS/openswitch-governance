@@ -1,9 +1,9 @@
-OpenHalon Project Leader
-========================
+OpenSwitch Project Leader
+=========================
 
-The OpenHalon Project Leader (OPL) is ultimately responsible for the success
-of the OpenHalon project, and leads the team driving towards each OpenHalon
-release. The broad technical vision for the success of OpenHalon is the
+The OpenSwitch Project Leader (OPL) is ultimately responsible for the success
+of the OpenSwitch project, and leads the team driving towards each OpenSwitch
+release. The broad technical vision for the success of OpenSwitch is the
 responsibilty of the entire community, but the OPL is the one who must lead
 the community in a common direction towards a goal the community has chosen
 and feels is important.

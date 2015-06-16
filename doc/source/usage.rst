@@ -2,6 +2,6 @@
 Usage
 ========
 
-To use openhalon-governance in a project::
+To use openswitchgovernance in a project::
 
-    import openhalon_governance
+    import openwitchgovernance

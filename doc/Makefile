@@ -87,9 +87,9 @@ qthelp:
 	@echo
 	@echo "Build finished; now you can run "qcollectiongenerator" with the" \
 	      ".qhcp project file in $(BUILDDIR)/qthelp, like this:"
-	@echo "# qcollectiongenerator $(BUILDDIR)/qthelp/HPOpenHalonOpenSourceStrategy.qhcp"
+	@echo "# qcollectiongenerator $(BUILDDIR)/qthelp/HPOpenSwitchOpenSourceStrategy.qhcp"
 	@echo "To view the help file:"
-	@echo "# assistant -collectionFile $(BUILDDIR)/qthelp/HPOpenHalonOpenSourceStrategy.qhc"
+	@echo "# assistant -collectionFile $(BUILDDIR)/qthelp/HPOpenSwitchOpenSourceStrategy.qhc"
 
 applehelp:
 	$(SPHINXBUILD) -b applehelp $(ALLSPHINXOPTS) $(BUILDDIR)/applehelp
@@ -104,8 +104,8 @@ devhelp:
 	@echo
 	@echo "Build finished."
 	@echo "To view the help file:"
-	@echo "# mkdir -p $$HOME/.local/share/devhelp/HPOpenHalonOpenSourceStrategy"
-	@echo "# ln -s $(BUILDDIR)/devhelp $$HOME/.local/share/devhelp/HPOpenHalonOpenSourceStrategy"
+	@echo "# mkdir -p $$HOME/.local/share/devhelp/HPOpenSwitchOpenSourceStrategy"
+	@echo "# ln -s $(BUILDDIR)/devhelp $$HOME/.local/share/devhelp/HPOpenSwitchOpenSourceStrategy"
 	@echo "# devhelp"
 
 epub:

@@ -14,16 +14,16 @@
       License for the specific language governing permissions and limitations
       under the License.
 
-OpenHalon's Governance Documentation
-====================================
+The OpenSwitch Project Governance Documentation
+===============================================
 
-OpenHalon is an Open Source Linux distribution targeting networking switches
+OpenSwitch is an Open Source Linux distribution targeting networking switches
 and virtual machines. As such, it includes packages and functionality which
 are specific to operating in this type of environment. The project is run
 according to the governance documents detailed herein.
 
-The documents in this tree all describe the governance around OpenHalon.
-As OpenHalon is an Open Source project, patches to these governance
+The documents in this tree all describe the governance around OpenSwitch.
+As OpenSwitch is an Open Source project, patches to these governance
 documents are encouraged. As the project grows, the governance around it
 will also grow and mature in lock-step.
 

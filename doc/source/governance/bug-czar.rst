@@ -7,4 +7,4 @@ the system. The bug czar is also responsible for ensuring all 'Critical' and
 czar should work with the maintainers and other contributors to ensure a
 smooth a release.
 
-The bug czar is assigned by the OpenHalon Project Leader.
+The bug czar is assigned by the OpenSwitch Project Leader.

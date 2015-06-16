@@ -37,7 +37,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'openhalon-governance'
+project = u'openswitch-governance'
 copyright = u'2015, HP'
 
 # If true, '()' will be appended to :func: etc. cross-reference text.
@@ -67,7 +67,7 @@ htmlhelp_basename = '%sdoc' % project
 latex_documents = [
     ('index',
      '%s.tex' % project,
-     u'%s Documentation' % project, 'OpenHalon Governance', 'manual'),
+     u'%s Documentation' % project, 'OpenSwitch Governance', 'manual'),
 ]
 
 # Example configuration for intersphinx: refer to the Python standard library.

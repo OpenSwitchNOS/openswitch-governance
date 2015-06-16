@@ -1,6 +1,6 @@
 Election Process
 ----------------
-As OpenHalon matures, we envision the project eventually having elections for
+As OpenSwitch matures, we envision the project eventually having elections for
 various positions. In the early stages, as we grow the community from scratch,
 these will be assigned. But we want a healthy community which is self
 governing once it's established, so elections will be a part of this process.
@@ -8,10 +8,10 @@ The first priority is establishing the community itself. But a part of that
 will be community involvement and input into the governance process itself,
 including the elections.
 
-The following positions are viewed as future elected positions in the OpenHalon
+The following positions are viewed as future elected positions in the OpenSwitch
 governance model:
 
-* OpenHalon Project Leader
+* OpenSwitch Project Leader
 * Release Manager
 
 When we move forward with elections, these positions will be decided by a
@@ -20,7 +20,7 @@ yearly election. Elections will be held using CIVS and a Condorcet algorithm
 described below.
 
 To be eligible to vote in the election, you must have a patch which has merged
-into an official OpenHalon gerrit repository during the prior release period.
+into an official OpenSwitch gerrit repository during the prior release period.
 Email ballots will be sent out to those who fulfill this requirement.
 
 Election Tie Breaking

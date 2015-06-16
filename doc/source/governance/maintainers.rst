@@ -1,12 +1,12 @@
-OpenHalon Maintainers
-=====================
+OpenSwitch Maintainers
+======================
 
 What is a Maintainer?
 ---------------------
 
-OpenHalon governance uses the concept of maintainers. What exactly is a
+OpenSwitch governance uses the concept of maintainers. What exactly is a
 maintainer? Maintainers are responsible for many things inside of the
-OpenHalon development process. A list of the things maintainers are
+OpenSwitch development process. A list of the things maintainers are
 responsible for includes:
 
 * Helping to ensure the bug count is low.
@@ -14,9 +14,9 @@ responsible for includes:
   expedient manner.
 * Working on integrating code from upstream projects in an orderly fashion.
 * Ensuring documentation is up to date and remains relevant.
-* Keeping on eye on the automated testing of OpenHalon and ensuring this
+* Keeping on eye on the automated testing of OpenSwitch and ensuring this
   remains adequate and relevant as features are added.
-* Helping new contributors with questions as they join OpenHalon development.
+* Helping new contributors with questions as they join OpenSwitch development.
 
 In essence, maintainers share the following common ideals:
 
@@ -26,7 +26,7 @@ In essence, maintainers share the following common ideals:
    what is the most interesting or fun.
 
 The Docker project has a great quote around what a maintainer is, this is
-quoted here for all OpenHalon developers to read and appreciate::
+quoted here for all OpenSwitch developers to read and appreciate::
 
    Maintainers are often under-appreciated, because their work is harder to
    appreciate. It's easy to appreciate a really cool and technically advanced

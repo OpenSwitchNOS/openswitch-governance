@@ -13,37 +13,37 @@
       License for the specific language governing permissions and limitations
       under the License.
 
-OpenHalon Governance
-====================
+OpenSwitch Governance
+=====================
 
-OpenHalon governance is structured as follows:
+OpenSwitch governance is structured as follows:
 
 * Contributors are people participating in the project by doing any of the
   following tasks. Note this is not an exhaustive list of tasks, but is meant
   to show a broad example of the valuable contributions contributors take part
   in.
 
-  * Submitting patches into the OpenHalon repositories. This includes not only
+  * Submitting patches into the OpenSwitch repositories. This includes not only
     source code but also tests, documentation, and infrastructure.
-  * Reviewing patches in the OpenHalon repositories.
-  * Participating in discussions on OpenHalon mailing lists.
-  * Updating and helping to maintain the OpenHalon wiki.
-  * Joining discussions on the OpenHalon IRC channels on Freenode.
-* Committers are responsible for reviewing and merging code into the OpenHalon
+  * Reviewing patches in the OpenSwitch repositories.
+  * Participating in discussions on OpenSwitch mailing lists.
+  * Updating and helping to maintain the OpenSwitch wiki.
+  * Joining discussions on the OpenSwitch IRC channels on Freenode.
+* Committers are responsible for reviewing and merging code into the OpenSwitch
   repositories. They review code from all contributors, including other
   committers. Code can include source code, tests, documents, and infrastructure
   items.
-* Maintainers are sub-team leaders for specific areas of OpenHalon development.
+* Maintainers are sub-team leaders for specific areas of OpenSwitch development.
   As an example, there is an infrastructure maintainer, a testing maintainer,
   a protocol maintainer, etc.
 * The bug czar is responsible for triaging incoming bugs.
-* The release manager is responsible for ensuring each OpenHalon release is
+* The release manager is responsible for ensuring each OpenSwitch release is
   executed in a timely and efficient manner, with a low bug count and very high
   stability.
-* The OpenHalon Project Leader is the effective CEO of OpenHalon and leads the
+* The OpenSwitch Project Leader is the effective CEO of OpenSwitch and leads the
   overall project.
 
-The following documents cover each of the above governance aspects of OpenHalon
+The following documents cover each of the above governance aspects of OpenSwitch
 in detail.
 
 Governance

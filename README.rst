@@ -1,14 +1,14 @@
 ====================
-OpenHalon README
+OpenSwitch README
 ====================
 
-OpenHalon is an Open Source switch operating system for networking switches
+OpenSwitch is an Open Source switch operating system for networking switches
 and virtual machines. This repository specifically captures the governance
-aspects of OpenHalon.
+aspects of OpenSwitch.
 
 Links
 -----
 
 * Free software: Apache license
-* Documentation: http://docs.openhalon.io/developer/governance
-* Source: http://git.openhalon.io/cgit/openhalon/governance
+* Documentation: http://docs.openswitch.io/developer/governance
+* Source: http://git.openswitch.io/cgit/openswitch/governance
