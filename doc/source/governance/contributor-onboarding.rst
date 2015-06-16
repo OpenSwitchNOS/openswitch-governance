@@ -19,13 +19,12 @@ Licensing of Contributions
 --------------------------
 
 OpenSwitch uses a combination of the standard Developer Certificate of
-Origin (DCO_) and a Contributor Licensing Agreement (CLA) for all
+Origin (DCO_) and a Contributor License Agreement (CLA) for all
 contributions. The dual-stacked approach allows for the following:
 
-* Corporate contributors can have their corporate entity sign the CLA
-  before submitting code.
-* Non-corporate affiliated contributors need to individually sign the
-  CLA.
+* Corporate entities must execute the corporate CLA  before their employees
+  may contribute.
+* Non-corporate affiliated contributors need to sign the individual CLA.
 * Everyone submitting code adds the (DCO_) to their commits.
 
 The CCLA and ICLA text can be found in the appropriate documents.
