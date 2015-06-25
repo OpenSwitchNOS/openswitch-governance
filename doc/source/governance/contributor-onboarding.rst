@@ -24,10 +24,9 @@ contributions. The dual-stacked approach allows for the following:
 
 * Corporate entities must execute the corporate CLA  before their employees
   may contribute.
-* Non-corporate affiliated contributors need to sign the individual CLA.
 * Everyone submitting code adds the (DCO_) to their commits.
 
-The CCLA and ICLA text can be found in the appropriate documents.
+The CCLA text can be found in the appropriate documents.
 
 The exact text for the DCO used by OpenSwitch is as follows::
 
