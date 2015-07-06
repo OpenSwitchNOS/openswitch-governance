@@ -1,6 +1,17 @@
 OpenSwitch Committers
 =====================
 
+Projects in OpenSwitch are made up of many different forms of contributors.
+One specific example is a committer. A committer has the ability to merge
+code into the OpenSwitch project for which they are a member. Committers
+responsibilities are outlined below. In general, projects should strive to
+have a healthy number of committers to ensure code is merged in a timely
+manner and the project is moving forward with decent feature velocity.
+There are no hard numbers of how many committers are required, but as the
+committers work closely together, experience in other projects has led us
+to believe they usually top out at 12-15 or so per project before requiring
+another layer in between the maintainer and committers.
+
 Code Merge Responsibilities
 ===========================
 

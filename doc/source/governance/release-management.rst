@@ -8,7 +8,7 @@ stability and quality, with additional features added as the community seeks
 to add them. The release manager coordinates all of this work across the
 OpenSwitch project.
 
-The initial release manager will be assigned by HP.
+The initial release manager will be assigned by Hewlett Packard Enterprise.
 
 Release Work Items
 ------------------

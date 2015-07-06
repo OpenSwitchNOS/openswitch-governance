@@ -37,13 +37,11 @@ quoted here for all OpenSwitch developers to read and appreciate::
 Current Maintainers
 -------------------
 
-The following is a list of current maintainers for specific projects::
-
-* Infrastructure maintainer
-* Protocol maintainer
-* Testing maintainer
+The current list of maintainers is on the wiki page below found at the Maintainers_ link.
 
 References
 ----------
 
 * `Docker MAINTAINERS Document <https://github.com/docker/docker/blob/master/MAINTAINERS>`_
+
+.. _Maintainers: https://wiki.openhalon.io/w/index.php/Module_Maintainers

@@ -38,7 +38,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'openswitch-governance'
-copyright = u'2015, HP'
+copyright = u'2015, Hewlett Packard Enterprise Development LP'
 
 # If true, '()' will be appended to :func: etc. cross-reference text.
 add_function_parentheses = True

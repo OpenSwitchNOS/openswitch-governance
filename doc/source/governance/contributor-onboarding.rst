@@ -10,10 +10,15 @@ Contributing
 Discussions around OpenSwitch development are held in two places:
 
 * The openswitch-dev mailing list.
-* The #openswitch channel on Freenode.
+* The #openswitch channel on Freenode_.
 
-New contributors should be sure to subscribe to the mailing list and to
-add #openswitch to their IRC client.
+New contributors should be sure to subscribe to the mailing list and to add
+#openswitch to their IRC client. To join the mailing list, go to
+lists.openswitch.org and follow the instructions to join the mailing list
+"openswitch-dev" there. To join Freenode_, select an IRC client for your
+operating system, join Freenode, and ensure you add the #openswitch channel
+to your list of channels. Webchat_ is a good system for those new to IRC
+who want to quickly get up and running with IRC.
 
 Licensing of Contributions
 --------------------------
@@ -78,3 +83,5 @@ Please note the OpenSwitch meeting follows UTC and not DST.
 .. _DCO: http://elinux.org/Developer_Certificate_Of_Origin
 .. _OpenDaylight: http://www.opendaylight.org/InboundCodeReview
 .. _Docker: https://github.com/docker/docker/blob/master/CONTRIBUTING.md
+.. _Freenode: https://freenode.net/
+.. _Webchat: https://webchat.freenode.net/
