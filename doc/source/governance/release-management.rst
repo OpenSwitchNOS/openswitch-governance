@@ -13,10 +13,11 @@ The initial release manager will be assigned by Hewlett Packard Enterprise.
 Release Work Items
 ------------------
 
-The release manager is in charge of working with the committers to ensure the
-success of OpenSwitch releases. Items of responsibility include the following:
+The release manager is in charge of working with the core reviewers to ensure
+the success of OpenSwitch releases. Items of responsibility include the
+following:
 
-* Defining the release plan and dates by working with the committers.
+* Defining the release plan and dates by working with the core reviewers.
 * Ensuring the release plan and dates are documented on the OpenSwitch wiki.
 * Tracking the status of all of the sub-projects as they move towards release.
 * Ensuring the release image is generated and published to the OpenSwitch
