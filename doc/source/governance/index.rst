@@ -31,8 +31,8 @@ OpenSwitch governance is structured as follows:
   * Joining discussions on the OpenSwitch IRC channels on Freenode.
 * Committers are responsible for reviewing and merging code into the OpenSwitch
   repositories. They review code from all contributors, including other
-  committers. Code can include source code, tests, documents, and infrastructure
-  items.
+  core reviewers. Code can include source code, tests, documents, and
+  infrastructure items.
 * Maintainers are sub-team leaders for specific areas of OpenSwitch development.
   As an example, there is an infrastructure maintainer, a testing maintainer,
   a protocol maintainer, etc.
@@ -53,7 +53,7 @@ Governance
 
    contributor-onboarding
    contributor-licensing-agreements
-   committers
+   core-reviewer
    maintainers
    bug-czar
    release-management

@@ -13,7 +13,7 @@ consistent vision for the project is met with each release. Any technical
 disputes are settled by the OPL if they cannot be settled in another manner.
 
 In addition, the OPL is responsible for growing new leaders in the project.
-These include maintainers as well as committers. A healthy project is one
+These include maintainers as well as core reviewers A healthy project is one
 in which a pipeline of future talent is constantly being readied.
 
 The initial OPL will be selected by Hewlett Packard Enterprise.
