@@ -29,5 +29,5 @@ Links
 -----
 
 * Free software: Apache license
-* Documentation: http://docs.openswitch.io/developer/governance
-* Source: http://git.openswitch.io/cgit/openswitch/governance
+* Documentation: http://docs.openswitch.net/developer/governance
+* Source: http://git.openswitch.net/cgit/openswitch/governance

@@ -1,7 +1,7 @@
 If you would like to contribute to the development of OpenSwitch,
 you must follow the steps in this page:
 
-   http://review.openswitch.io/
+   http://review.openswitch.net/
 
 Once those steps have been completed, changes to OpenSwitch
 should be submitted for review via the Gerrit tool.
