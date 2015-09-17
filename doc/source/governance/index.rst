@@ -53,7 +53,7 @@ Governance
 
    contributor-onboarding
    contributor-licensing-agreements
-   core-reviewer
+   core-reviewers
    maintainers
    bug-czar
    release-management
