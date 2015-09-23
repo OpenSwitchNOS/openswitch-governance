@@ -41,7 +41,7 @@ master_doc = 'index'
 project = u'openswitch-governance'
 copyright = u'2015, Hewlett Packard Enterprise Development LP'
 html_show_copyright = False
-version = '1.0.0'
+version = '1.0.1'
 
 # If true, '()' will be appended to :func: etc. cross-reference text.
 add_function_parentheses = True
