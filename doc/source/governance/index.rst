@@ -27,7 +27,7 @@ OpenSwitch governance is structured as follows:
     source code but also tests, documentation, and infrastructure.
   * Reviewing patches in the OpenSwitch repositories.
   * Participating in discussions on OpenSwitch mailing lists.
-  * Updating and helping to maintain the OpenSwitch wiki.
+  * Updating and helping to maintain the OpenSwitch devref documentation.
   * Joining discussions on the OpenSwitch IRC channels on Freenode.
 * Committers are responsible for reviewing and merging code into the OpenSwitch
   repositories. They review code from all contributors, including other

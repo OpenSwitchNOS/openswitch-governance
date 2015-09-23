@@ -18,7 +18,7 @@ the success of OpenSwitch releases. Items of responsibility include the
 following:
 
 * Defining the release plan and dates by working with the core reviewers.
-* Ensuring the release plan and dates are documented on the OpenSwitch wiki.
+* Ensuring the release plan and dates are documented.
 * Tracking the status of all of the sub-projects as they move towards release.
 * Ensuring the release image is generated and published to the OpenSwitch
   web page.
