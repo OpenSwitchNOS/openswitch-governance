@@ -6,12 +6,14 @@ This file contains the text for the Corporate Contributor Licensing Agreement
 Corporate Contributor Licensing Agreement
 -----------------------------------------
 Corporation Name:
+
+
 Corporation Address:
 
-
-
 Point of Contact:
+
 E-Mail:
+
 Telephone/Fax:
 
 This agreement allows an entity (the “Corporation”) to submit Contributions
@@ -50,9 +52,13 @@ Manager:
    Project Manager.
 
 Name:
+
 Signature:
+
 Title:
+
 Date:
+
 
 Schedule A
 [List authorized employee contributors here]

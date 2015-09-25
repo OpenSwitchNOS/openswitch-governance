@@ -44,4 +44,4 @@ References
 
 * `Docker MAINTAINERS Document <https://github.com/docker/docker/blob/master/MAINTAINERS>`_
 
-.. _Maintainers: https://wiki.openhalon.io/w/index.php/Module_Maintainers
+.. _Maintainers: http://openswitch.net/documents/dev/code-repositories
