@@ -56,9 +56,9 @@ pygments_style = 'sphinx'
 # -- Options for HTML output --------------------------------------------------
 
 if not on_rtd:  # only import and set the theme if we're building docs locally
-    import sphinx_rtd_theme
-    html_theme = 'sphinx_rtd_theme'
-    html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+    import sphinx_ops_theme
+    html_theme = 'sphinx_ops_theme'
+    html_theme_path = [sphinx_ops_theme.get_html_theme_path()]
 
 # Output file base name for HTML help builder.
 htmlhelp_basename = '%sdoc' % project
