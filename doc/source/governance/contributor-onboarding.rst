@@ -77,7 +77,7 @@ Please note the #openswitch IRC channel is logged publicly.
 Weekly Meetings
 ---------------
 OpenSwitch holds a weekly IRC meeting. This meeting is held on Freenode in
-the #openswitch-meeting channel. The meeting is held at 1700 UTC on Wednesdays.
+the #openswitch channel. The meeting is held at 1700 UTC on Wednesdays.
 Please note the OpenSwitch meeting follows UTC and not DST.
 
 .. _DCO: http://elinux.org/Developer_Certificate_Of_Origin
