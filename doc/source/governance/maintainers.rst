@@ -14,7 +14,7 @@ responsible for includes:
   expedient manner.
 * Working on integrating code from upstream projects in an orderly fashion.
 * Ensuring documentation is up to date and remains relevant.
-* Keeping on eye on the automated testing of OpenSwitch and ensuring this
+* Keeping an eye on the automated testing of OpenSwitch and ensuring this
   remains adequate and relevant as features are added.
 * Helping new contributors with questions as they join OpenSwitch development.
 
