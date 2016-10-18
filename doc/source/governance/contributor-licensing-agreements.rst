@@ -16,11 +16,20 @@ E-Mail:
 
 Telephone/Fax:
 
-This agreement allows an entity (the “Corporation”) to submit Contributions
+This agreement allows an entity (the “Corporation”) and its Affiliates
+(as defined below) to submit Contributions
 (as defined in the Apache License, v. 2.0) for the OpenSwitch Project
 (“Project”) to Hewlett Packard Enterprise (“Project Manager”) and to authorize
 Contributions submitted by the Corporation to the Project Manager for use in
 the Project.
+
+Affiliates includes all other entities that control, are controlled
+by, or are under common control with Corporation. For the purposes of
+this definition, "control" means
+(i) the power, direct or indirect, to cause the direction or management
+of such entity, whether by contract or otherwise, or
+(ii) ownership of fifty percent (50%) or more of the outstanding shares, or
+(iii) beneficial ownership of such entity.
 
 Corporation accepts and agrees to the following terms and conditions for
 Corporation’s present and future Contributions submitted to the Project
