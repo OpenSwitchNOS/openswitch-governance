@@ -19,7 +19,7 @@ Telephone/Fax:
 This agreement allows an entity (the “Corporation”) and its Affiliates
 (as defined below) to submit Contributions
 (as defined in the Apache License, v. 2.0) for the OpenSwitch Project
-(“Project”) to Hewlett Packard Enterprise (“Project Manager”) and to authorize
+(“Project”) to the OpenSwitch Project at the Linux Foundation (“Project Manager”) and to authorize
 Contributions submitted by the Corporation to the Project Manager for use in
 the Project.
 
